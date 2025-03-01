@@ -1,0 +1,5 @@
+Hello 
+How are you?
+What is up?
+This is basic file handling 
+Merging of two files into one file
